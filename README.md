@@ -34,4 +34,4 @@
 ---
 
 ### 📫 Contacto
-[LinkedIn](www.linkedin.com/in/fidel-pizarro-91588524b) · fidelpizarro11@gmail.com
+[LinkedIn](https://www.linkedin.com/in/fidel-pizarro-91588524b/) · fidelpizarro11@gmail.com  
