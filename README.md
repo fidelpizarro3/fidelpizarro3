@@ -5,11 +5,11 @@
 🚀 Actualmente aprendiendo:
 - Node.js + Express + MongoDB
 - PHP + MySQL
-- HTML, CSS y JavaScript nativo
+- HTML, CSS, JavaScript nativo y React
 
 📌 Proyectos destacados:
 - 🛒 [Proyecto Backend](https://github.com/fidelpizarro3/proyecto-backend) — Node.js, Express y MongoDB
-- 🛍️ [Comercio Electrónico](https://github.com/fidelpizarro3/comercio-electronico) — Proyecto React
+- 🛍️ [portfolio arquitecto ](https://github.com/fidelpizarro3/Portfolio-Arquitecto.git) — Proyecto React
 - 🌐 [Página Lionel Messi](https://github.com/fidelpizarro3/pagina-lionel-messi-coderhouse) — HTML + CSS
 - ⚙️ [Backend-2](https://github.com/fidelpizarro3/backend-2) — Node.js y MongoDB
 
